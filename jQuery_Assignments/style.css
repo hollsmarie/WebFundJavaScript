@@ -1,0 +1,47 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+#wrapper{
+
+}
+
+#sectionOne{
+    height: 240px;
+    width: 340px;
+    background: orange;
+
+}
+
+.redHeading{
+    color: red;
+}
+
+#sectionTwo{
+    height: 240px;
+    width: 340px;
+    background: blue;
+
+}
+
+#sectionThree{
+    height: 240px;
+    width: 340px;
+    background-color: pink;
+
+}
+
+#sectionThree Warning{
+    height: 140px;
+    width: 140px;
+    background-color: red;
+    color: black;
+}
+
+#pictureArea{
+    width: 140px;
+    height: 140px;
+   
+}
