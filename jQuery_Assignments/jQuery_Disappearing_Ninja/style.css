@@ -1,0 +1,47 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+#wrapper{
+border: 2px solid black;
+display: inline-block;
+}
+
+#oneAndTwoTop{
+    display: inline-block;
+    padding: 50px;
+
+}
+
+#threeAndFourTop{
+    display: inline-block;
+    padding: 50px;
+
+}
+
+#oneAndTwoBottom{
+    display: inline-block;
+    padding: 50px;
+
+}
+
+#threeAndFourBottom{
+    display: inline-block;
+    padding: 50px;
+
+}
+
+#restore{
+    height:50px;
+    width: 50px;
+    background-color: green;
+    color: white;
+    margin: 100px;
+}
+
+#ninjaCartoon{
+    height:140px;
+    width: 140px;
+}
