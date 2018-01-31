@@ -1,0 +1,37 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+#wrapper{
+width: 740px;
+margin: 10px;
+}
+
+
+table{
+    height: 20px;
+    width: 600px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+th{
+    padding: 10px 20px 10px 10px;
+}
+
+
+#form{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#h1{
+    border-bottom: 2px solid black;
+}
