@@ -6,8 +6,3 @@ $(document).ready(function () {
       console.log("clicked")
     }
 });
-
-// $(document).on('click', function())
-
-
-// $.get(url)
